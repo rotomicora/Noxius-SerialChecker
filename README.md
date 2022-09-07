@@ -1,7 +1,8 @@
 # Noxius Serial Checker
 This is a free tool developed by @fran_afp_#0001
-[Noxius](https://discord.gg/noxius)
-[Trankimazin](https://discord.gg/trankimazin)
+
+- [Noxius](https://discord.gg/noxius)
+- [Trankimazin](https://discord.gg/trankimazin)
 # Showcase
 
 <img src="https://cdn.discordapp.com/attachments/1017042931405828096/1017135245117636638/unknown.png" width="500px" alt="Loading Noxius" />
@@ -10,7 +11,7 @@ This is a free tool developed by @fran_afp_#0001
 
 # ¿?
 This tool is a serial checker
->>> Check:
+> Check:
 - HWID
 - BIOS
 - CPU
