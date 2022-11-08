@@ -1,7 +1,7 @@
 # Noxius Serial Checker
 This is a free tool developed by @franafp#0001
 
-- [Project Noxius](https://discord.gg/fivemspoofer)
+- [Project Noxius](https://discord.gg/noxius)
 # Showcase
 
 <img src="https://cdn.discordapp.com/attachments/1030804035407712317/1035841265264238612/unknown.png" width="500px" alt="Noxius" />
