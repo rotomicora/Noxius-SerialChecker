@@ -10,6 +10,8 @@ This is a free tool developed by @franafp#0001
 # Features
 This tool is a serial checker
 > Check:
+```python
+check="""
 - HWID
 - BIOS
 - smBIOS
@@ -22,7 +24,9 @@ This tool is a serial checker
 - smBIOS
 - DISKDRIVE
 - ***And more***
-
+"""
+print(check)
+```
 
 
 
