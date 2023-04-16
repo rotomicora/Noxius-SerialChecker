@@ -1,8 +1,8 @@
 # Noxius Serial Checker
-This is a free tool developed by @franafp#0001
+This is a free tool developed by rotomicora#0001
 
 - [Twitter](https://twitter.com/fran_afp_)
-- [YouTube](https://wwe.youtube.com/fran_afp_)
+- [YouTube](https://www.youtube.com/@fran_afp_)
 # Showcase
 
 <img src="https://cdn.discordapp.com/attachments/1030804035407712317/1035841265264238612/unknown.png" width="500px" alt="Noxius" />
